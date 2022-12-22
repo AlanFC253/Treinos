@@ -1,10 +1,15 @@
 import React from "react";
+import Button from "./Button";
 
 
 const App=()=>{
   return(
     
-    <h1>Ola mundo</h1>
+  <div>
+    <Button>
+      
+    </Button>
+  </div>
     
   )
 }
